@@ -1,0 +1,15 @@
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\bin\Release\AnyCPU\xpsview.exe.config
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\bin\Release\AnyCPU\xpsview.exe
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\bin\Release\AnyCPU\xpsview.pdb
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\XpsViewer.baml
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\XpsViewer.g.cs
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\xpsview_Content.g.cs
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\xpsview_MarkupCompile.cache
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\xpsview.g.resources
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\xpsview.FormMain.resources
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\xpsview.FormWait.resources
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\xpsview.Properties.Resources.resources
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\xpsview.csproj.GenerateResource.cache
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\xpsview.csproj.CoreCompileInputs.cache
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\xpsview.exe
+D:\Public\XPS\xpsview-v1.0-2012-10-03\xpsview\obj\Release\xpsview.pdb
